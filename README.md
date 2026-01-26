@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Meu nome é Thiago Ferreira Nunes, tenho 20 anos e sou de Cubatão-SP. Estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara. Sou apaixonado por programação e dedico-me a aprimorar continuamente minhas habilidades técnicas.
+Meu nome é Thiago Ferreira Nunes, tenho 20 anos e sou de Cubatão-SP. Estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara. Sou apaixonado por programação e dedico-me a aprimorar continuamente minhas habilidades técnicas.
 
 ---
 
